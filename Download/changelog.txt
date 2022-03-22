@@ -1,0 +1,13 @@
+Fourth public release of OpenRec.
+
+Supports:
+-October 19th 2017
+-May 30th 2018
+
+-Added banning system
+-Removed unnecessary code
+-Slight UI improvements
+
+Credits:
+@LucasOnDiscord#0210 - Adding potions
+@GabeTheFirst#7335 - Tester when my game was broken
